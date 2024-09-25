@@ -1,4 +1,4 @@
-# Colleciton Examples
+# Collection Method Examples
 
 Simple examples for how to use collection methods, eg. `map` or `where`.
 Comes with data classes to hold the data, eg. `Computer`.
